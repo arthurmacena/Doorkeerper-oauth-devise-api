@@ -4,6 +4,6 @@ Project with grape api for endpoints, doorkeeper for tokens autheticantions and 
 
 * Ruby-2.7.2
 
-* Rails-5.4.3.2
+* Rails-5.2.4.5
 
 * Postgresql-11.8
