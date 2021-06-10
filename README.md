@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project with grape api for endpoints, doorkeeper for tokens autheticantions and devise for authorizations.
 
-Things you may want to cover:
+* Ruby-2.7.2
 
-* Ruby version
+* Rails-5.4.3.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Postgresql-11.8
